@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-sylvesteraswin",
+  "version": "1.0.0",
+  "description": "ESLint rules for all my personal projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sylvesteraswin/eslint-config-sylvesteraswin.git"
+  },
+  "author": "Sylvester Aswin Stanley <me@sylvesteraswin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sylvesteraswin/eslint-config-sylvesteraswin/issues"
+  },
+  "homepage": "https://github.com/sylvesteraswin/eslint-config-sylvesteraswin#readme"
+}
